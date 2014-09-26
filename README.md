@@ -6,7 +6,7 @@ This bash script allows you to automatically create a GCloud instance in the USA
 The script works in three steps :
 
 * Instance creation
-* Connexion
+* Connection
 * Instance deletion
 
 
